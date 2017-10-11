@@ -6,8 +6,6 @@ var MSGCODE = require('../conf/msgCode');
 var APPCONFIG = require('../conf/conf');
 var ToolUtil = require('../lib/tools');     // 基本工具库对象
 
-var allGuPiaoCodes = APPCONFIG.gupiaoCodes.split(',');
-
 /**
  * 金融相关操作控制层
  * @type {Object}
