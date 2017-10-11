@@ -1,0 +1,65 @@
+[2017-05-10 15:56:08.636] [FATAL] error - connection database fail
+[2017-05-10 16:00:51.884] [FATAL] error - connection database fail
+[2017-05-15 15:37:16.636] [ERROR] error - user username is empty
+[2017-05-15 15:37:18.677] [ERROR] error - user username is empty
+[2017-05-15 15:37:19.846] [ERROR] error - user username is empty
+[2017-05-15 17:16:21.322] [FATAL] error - database ER_BAD_FIELD_ERROR
+[2017-05-15 17:16:35.262] [FATAL] error - database ER_BAD_FIELD_ERROR
+[2017-05-15 17:16:45.107] [FATAL] error - database ER_BAD_FIELD_ERROR
+[2017-07-05 20:45:27.915] [ERROR] error - user username is empty
+[2017-07-07 23:29:38.384] [ERROR] error - user username is empty
+[2017-07-07 23:29:45.321] [ERROR] error - user username is empty
+[2017-07-07 23:39:43.460] [ERROR] error - user username is empty
+[2017-07-07 23:42:09.301] [ERROR] error - user password is empty
+[2017-07-07 23:42:32.199] [ERROR] error - user phone is empty
+[2017-07-07 23:42:46.943] [FATAL] error - database ER_BAD_FIELD_ERROR
+[2017-07-08 17:47:03.010] [ERROR] error - user username is empty
+[2017-07-08 17:47:09.391] [ERROR] error - user username is empty
+[2017-07-08 17:47:32.738] [FATAL] error - database ER_BAD_FIELD_ERROR
+[2017-07-12 21:18:55.919] [FATAL] error - database ER_OTHER_ERROR
+[2017-07-12 21:19:25.131] [FATAL] error - database ER_OTHER_ERROR
+[2017-07-12 21:20:09.321] [FATAL] error - database ER_OTHER_ERROR
+[2017-07-12 21:21:12.053] [FATAL] error - database ER_OTHER_ERROR
+[2017-07-12 21:21:48.875] [FATAL] error - database ER_OTHER_ERROR
+[2017-07-12 21:22:44.226] [FATAL] error - database ER_OTHER_ERROR
+[2017-07-12 21:55:25.130] [FATAL] error - database ER_OTHER_ERROR
+[2017-07-12 21:57:42.313] [FATAL] error - database ER_OTHER_ERROR
+[2017-07-13 13:28:07.810] [FATAL] error - database ER_PARSE_ERROR
+[2017-07-13 21:53:28.711] [FATAL] error - database ER_PARSE_ERROR
+[2017-07-13 21:55:29.287] [FATAL] error - database ER_PARSE_ERROR
+[2017-07-13 22:04:23.006] [FATAL] error - database ER_BAD_FIELD_ERROR
+[2017-07-13 22:09:02.729] [FATAL] error - database ER_BAD_FIELD_ERROR
+[2017-07-13 22:10:40.072] [FATAL] error - database ER_PARSE_ERROR
+[2017-07-13 22:15:39.560] [FATAL] error - database ER_PARSE_ERROR
+[2017-07-13 22:16:50.194] [FATAL] error - database ER_PARSE_ERROR
+[2017-07-13 22:16:59.164] [FATAL] error - database ER_PARSE_ERROR
+[2017-07-13 22:17:24.680] [FATAL] error - database ER_PARSE_ERROR
+[2017-07-13 22:19:38.831] [FATAL] error - database ER_PARSE_ERROR
+[2017-07-13 22:21:49.857] [FATAL] error - database ER_PARSE_ERROR
+[2017-07-13 22:23:43.482] [FATAL] error - database ER_PARSE_ERROR
+[2017-07-13 22:24:03.713] [FATAL] error - database ER_PARSE_ERROR
+[2017-07-13 22:26:27.871] [FATAL] error - database ER_PARSE_ERROR
+[2017-07-13 22:26:40.169] [FATAL] error - database ER_PARSE_ERROR
+[2017-07-13 22:28:37.856] [FATAL] error - database ER_BAD_FIELD_ERROR
+[2017-07-13 22:31:37.016] [FATAL] error - database ER_BAD_FIELD_ERROR
+[2017-07-13 22:34:12.437] [FATAL] error - database ER_BAD_FIELD_ERROR
+[2017-07-13 22:37:16.749] [FATAL] error - database ER_BAD_FIELD_ERROR
+[2017-07-13 22:40:44.820] [FATAL] error - database ER_BAD_FIELD_ERROR
+[2017-07-13 22:57:17.839] [FATAL] error - database ER_BAD_FIELD_ERROR
+[2017-07-13 23:01:23.228] [FATAL] error - database ER_OTHER_ERROR
+[2017-07-13 23:15:35.535] [FATAL] error - database ER_PARSE_ERROR
+[2017-07-13 23:15:45.215] [FATAL] error - database ER_PARSE_ERROR
+[2017-07-13 23:16:25.962] [FATAL] error - database ER_PARSE_ERROR
+[2017-07-13 23:18:52.803] [FATAL] error - database ER_PARSE_ERROR
+[2017-07-14 11:39:59.400] [FATAL] error - database ER_PARSE_ERROR
+[2017-07-16 21:01:10.996] [FATAL] error - database ER_BAD_FIELD_ERROR
+[2017-07-16 21:12:20.485] [FATAL] error - database ER_OTHER_ERROR
+[2017-07-16 21:13:08.905] [FATAL] error - database ER_OTHER_ERROR
+[2017-07-16 21:14:08.900] [FATAL] error - database ER_OTHER_ERROR
+[2017-07-16 21:16:34.596] [FATAL] error - database ER_PARSE_ERROR
+[2017-07-16 21:29:25.088] [FATAL] error - database ER_PARSE_ERROR
+[2017-07-16 21:43:01.633] [FATAL] error - database ER_OTHER_ERROR
+[2017-07-16 21:47:40.003] [FATAL] error - database ER_OTHER_ERROR
+[2017-07-16 21:51:48.732] [FATAL] error - database ER_OTHER_ERROR
+[2017-08-29 17:04:49.935] [FATAL] error - database ER_OTHER_ERROR
+[2017-08-29 17:05:03.322] [FATAL] error - database ER_OTHER_ERROR
