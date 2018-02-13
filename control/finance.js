@@ -13,7 +13,7 @@ var ToolUtil = require('../lib/tools');     // 基本工具库对象
 var financeControl = {
 	/**
 	 * 是否金叉
-	 * @Author   dingyang   [dingyang@baidu.com]
+	 * @Author   dingyang   [dingyang9642@126.com]
 	 * @DateTime 2017-10-13
 	 * @param    {[type]}   code                 代码
 	 * @param    {[type]}   type                 '30'／30分钟；'60'／60分钟

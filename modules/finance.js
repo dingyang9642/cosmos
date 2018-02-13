@@ -13,7 +13,7 @@ var DB = require('./db');     // 基本工具库对象
 var FINANCE = {
 	/**
 	 * 获取k线数据
-	 * @Author   dingyang   [dingyang@baidu.com]
+	 * @Author   dingyang   [dingyang9642@126.com]
 	 * @DateTime 2017-10-13
 	 * @param    {[type]}   code                 股票code
 	 * @param    {[type]}   scale                ‘30’／30分钟
@@ -53,7 +53,7 @@ var FINANCE = {
     },
     /**
      * 计算数组中移动平均线
-     * @Author   dingyang   [dingyang@baidu.com]
+     * @Author   dingyang   [dingyang9642@126.com]
      * @DateTime 2017-10-13
      * @param    {[type]}   closeDatas           [description]
      * @param    {[type]}   n                    可选参数，如果此参数存在，则会自动获取closedatas中后n位数据数据
@@ -76,7 +76,7 @@ var FINANCE = {
     },
     /**
      * 计算平均值
-     * @Author   dingyang   [dingyang@baidu.com]
+     * @Author   dingyang   [dingyang9642@126.com]
      * @DateTime 2017-10-13
      * @param    {[type]}   closeDatas           [description]
      * @param    {[type]}   n                    可选参数，如果此参数存在，则会自动获取closedatas中后n位数据数据
@@ -99,7 +99,7 @@ var FINANCE = {
     },
     /**
      * dif计算
-     * @Author   dingyang   [dingyang@baidu.com]
+     * @Author   dingyang   [dingyang9642@126.com]
      * @DateTime 2017-10-13
      * @param    {[type]}   closeDatas           [description]
      */
