@@ -41,8 +41,8 @@ var MSG_CODE = {
     QUERYWX_ARTICLE_NOT_EXIT_MSG        : "文章不存在",
 
     // 百度股市通爬虫
-    BAIDU_GUPIAO_DATA_ERROR_CODE        : "4000",
-    BAIDU_GUPIAO_DATA_ERROR_MSG         : "百度股市通数据错误",
+    BIDU_GUPIAO_DATA_ERROR_CODE        : "4000",
+    BIDU_GUPIAO_DATA_ERROR_MSG         : "百度股市通数据错误",
     GUPIAO_INVALID_CODE                 : "4001",
     GUPIAO_INVALID_MSG                  : "本股不符合筛选条件"
 

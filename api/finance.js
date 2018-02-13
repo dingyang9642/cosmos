@@ -3,10 +3,11 @@ var appFinanceApi = express();
 var financeControl = require('../control/finance');
 
 
-appFinanceApi.get('/start', function(req, res) {
+appFinanceApi.get('/cross', function(req, res) {
 	// 1、获取请求参数
+	financeControl.isMacdGoldenCross();
     res.json({
-    	msg: '启动爬虫...'
+    	msg: 'test'
     });
 });
 
